@@ -4,7 +4,9 @@ The purpose of this project is to understand our customer demographic and to rea
 
 ## Project Summary: 
 
-The goal of this project is to have a dataset with a list of Zip Codes and correspoding income statuses. When finalized this will be used as a 'look up' table to definie our users based on the Zip Code they have provided. There are multiple ways to describe income statuses: low income, very low income, and extremely low income. For this project we will be using the Low Income definition.
+The goal of this project is to have a dataset with a list of Zip Codes and correspoding income statuses. When finalized this will be used as a 'look up' table to definie our users based on the Zip Code they have provided. There are multiple ways to describe income statuses: low income, very low income, and extremely low income. For this project we will be using the Low Income definition. 
+
+This project references the 
 
 ## Data Sets: 
 
@@ -36,6 +38,7 @@ Columns Untilized: Zip Code, County
 
 ## Methodology: 
 
+### Definitions: 
 Low Income Household: 
 Those with household incomes at or below 80 percent of the statewide median income 
 
